@@ -1,0 +1,2 @@
+insertGUID
+insertCurrentTimestamp
